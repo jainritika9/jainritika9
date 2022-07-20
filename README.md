@@ -3,17 +3,18 @@
 <!--
 **jainritika9/jainritika9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
+<h1 align="center">Hello 👋, I'm Ritika Jain</h1>
+<h3 align="center"></h3>
+<img align ="right" width="400" src="https://www.pinterest.com/pin/642607440569761384/">
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 'jain.ritika919@gmail.com'
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h1 align="center">Hello 👋, I'm Ritika Jain</h1>
-<h3 align="center">I'm </h3>
-<img align ="right" width="400" src="https://in.pinterest.com/pin/706854104000200623/">
+
+
+
+
