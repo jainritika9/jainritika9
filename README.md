@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello 👋, I'm Ritika Jain</h1>
 <h3 align="center">I'm </h3>
-<img align ="right" width="400" src="https://www.vecteezy.com/free-vector/woman-laptop">
+<img align ="right" width="400" src="https://in.pinterest.com/pin/706854104000200623/">
