@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 <h1 align="center">Hello 👋, I'm Ritika Jain</h1>
 <h3 align="center">I'm a web developer and active learner.</h3>
-<img align ="right" width="400" src="https://www.pinterest.com/pin/642607440569761384/">
+<img align ="right" width="400" src="https://user-images.githubusercontent.com/72313642/180041674-a6d3d9bb-5b00-4ca1-a91a-f0604673cda4.jpg">
 
 - 🔭 I’m currently working on React Native
 - 🌱 Passionate about building world-class web applications.
