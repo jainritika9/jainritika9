@@ -7,18 +7,18 @@ Here are some ideas to get you started:-->
 <h1 align="center">Hello 👋, I'm Ritika Jain</h1>
 <h3 align="center">I'm a web developer and active learner.</h3>
 <img align ="right" width="400" src="https://user-images.githubusercontent.com/72313642/180042533-7997ded3-06b6-45ac-bb08-04c7cb3ae1d0.png">
-
+<h3><a href="https://my-portfolio-five-rho.vercel.app/" >Check Out My Portfolio!!</a></h3>
 - 🔭 I’m currently working on React Native
 - 🌱 Passionate about building world-class web applications.
-- 💬 Ask me about ...
+- 💬 Ask me about Next.js and ReactNative
 - 📫 How to reach me: 'jain.ritika919@gmail.com'
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "Love to talk!!"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ritika-jain19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshitpaneri29/" height="30" width="40" /></a> ||
 <a href="https://www.instagram.com/jain_ritika9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit___29" height="30" width="40" /></a>||
+  <a href="https://www.facebook.com/people/Ritika-Jain/100068321311873/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72313642/180047838-32a7dcae-1900-4cc0-90cc-edc16119a468.png" alt="harshit___29" height="30" width="40" /></a>
 </p>
 
 
