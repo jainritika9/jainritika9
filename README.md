@@ -6,8 +6,8 @@
 Here are some ideas to get you started:-->
 <h1 align="center">Hello 👋, I'm Ritika Jain</h1>
 <h3 align="center">I'm a web developer and active learner.</h3>
+<h3 align="center"><a href="https://my-portfolio-five-rho.vercel.app/" >Check Out My Portfolio!!</a></h3>
 <img align ="right" width="400" src="https://user-images.githubusercontent.com/72313642/180042533-7997ded3-06b6-45ac-bb08-04c7cb3ae1d0.png">
-<h3><a href="https://my-portfolio-five-rho.vercel.app/" >Check Out My Portfolio!!</a></h3>
 - 🔭 I’m currently working on React Native
 - 🌱 Passionate about building world-class web applications.
 - 💬 Ask me about Next.js and ReactNative
